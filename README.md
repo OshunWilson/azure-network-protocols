@@ -53,7 +53,7 @@ From The Windows 10 VM, I opened command line/PowerShell & attempted to ping a p
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Initiated a perpetual/non-stop ping from your Windows 10 VM to Ubuntu VMInitiate a perpetual/non-stop ping from your Windows 10 VM to your Ubuntu VM
+Initiated a perpetual/non-stop ping from Windows 10 VM to Ubuntu VM
 </p>
 <br />
 <p>
